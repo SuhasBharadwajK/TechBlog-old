@@ -26,7 +26,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-feed
 
